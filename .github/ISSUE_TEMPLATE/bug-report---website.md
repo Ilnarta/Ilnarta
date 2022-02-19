@@ -1,8 +1,9 @@
 ---
 name: 'Bug report : WebSite'
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Create a report to help us improve / Créez un rapport pour nous aider à nous
+  améliorer
+title: "[BUG] "
+labels: Bug, WebSite
 assignees: ''
 
 ---

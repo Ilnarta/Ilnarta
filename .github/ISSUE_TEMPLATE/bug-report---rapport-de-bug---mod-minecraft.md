@@ -1,8 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 'Bug report / Rapport de bug : Mod Minecraft'
+about: Create a report to help us improve / Créez un rapport pour nous aider à nous
+  améliorer
+title: "[BUG] "
+labels: Bug, Minecraft Mod
 assignees: ''
 
 ---
