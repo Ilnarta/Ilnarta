@@ -1,7 +1,7 @@
 # Ilnarta Minecraft Mod
 Ilnarta is a very complete mod to become!
 
-[![Image Button Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE&style=for-the-badge&up_color=blue&up_message=ONLINE&url=https%3A%2F%2Filnarta.github.io&logo=FirefoxBrowser&logoColor=blue)](https://ilnarta.github.io)    [![Image Button Download Mod](https://img.shields.io/badge/Forge-DOWNLOAD-orange?style=for-the-badge&logo=CurseForge&logoColor=orange)](https://www.curseforge.com/minecraft/mc-mods/ilnarta)
+[![Image Button Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE&style=for-the-badge&up_color=blue&up_message=ONLINE&url=https%3A%2F%2Filnarta.github.io&logo=FirefoxBrowser&logoColor=blue)]()    [![Image Button Download Mod](https://img.shields.io/badge/Forge-DOWNLOAD-orange?style=for-the-badge&logo=CurseForge&logoColor=orange)](https://www.curseforge.com/minecraft/mc-mods/ilnarta)
 
 ![Last Version](https://img.shields.io/badge/Last%20version-V%200.14B-blue) ![Stable Version](https://img.shields.io/badge/Stable%20version-V%200.13-green) ![Minecraft Version](https://img.shields.io/badge/Minecraft%20version-1.17.1-important)
 
