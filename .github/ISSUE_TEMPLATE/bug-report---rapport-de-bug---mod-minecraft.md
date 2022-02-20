@@ -1,5 +1,5 @@
 ---
-name: 'Bug report / Rapport de bug : Mod Minecraft'
+name: 'Bug report / Rapport de bug : Minecraft Mod'
 about: Create a report to help us improve / Créez un rapport pour nous aider à nous
   améliorer
 title: "[BUG] "
