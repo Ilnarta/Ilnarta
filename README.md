@@ -7,8 +7,8 @@ Ilnarta is a very complete mod to become!
 
 ## :bangbang: You want to report a bug ?
 
-> - For report an bug of WebSite -> [Click here](https://github.com/Ilnarta/Ilnarta/issue) and choose the "Bug report / Rapport de bug : WebSite" template.
-> - For report an bug of Minecraft Mod -> [Click here](https://github.com/Ilnarta/Ilnarta/issue) and choose the "Bug report / Rapport de bug : Minecraft Mod" template.
+> - For report an bug of WebSite -> [Click here](https://github.com/Ilnarta/Ilnarta/issues) and choose the "Bug report / Rapport de bug : WebSite" template.
+> - For report an bug of Minecraft Mod -> [Click here](https://github.com/Ilnarta/Ilnarta/issues) and choose the "Bug report / Rapport de bug : Minecraft Mod" template.
 
 ## :bulb: You want to suggest an idea for this project ?
 
