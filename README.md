@@ -5,6 +5,14 @@ Ilnarta is a very complete mod to become!
 
 ![Last Version](https://img.shields.io/badge/Last%20version-V%200.14B-blue) ![Stable Version](https://img.shields.io/badge/Stable%20version-V%200.13-green) ![Minecraft Version](https://img.shields.io/badge/Minecraft%20version-1.17.1-important)
 
+## You want to report a bug ?
+
+> - For report an bug of WebSite -> [Click here](https://github.com/Ilnarta/Ilnarta/issue) and choose the "Bug report / Rapport de bug : WebSite" template.
+> - For report an bug of Minecraft Mod -> [Click here](https://github.com/Ilnarta/Ilnarta/issue) and choose the "Bug report / Rapport de bug : Minecraft Mod" template.
+
+## You want to suggest an idea for this project ?
+
+> For suggest an idea for this project, create an new discussion [here](https://github.com/Ilnarta/Ilnarta/discussions/new?category=ideas-suggestions).
 
 <!--
 **Ilnarta/ilnarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
