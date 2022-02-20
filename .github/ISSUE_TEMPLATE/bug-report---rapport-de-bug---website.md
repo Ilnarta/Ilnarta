@@ -8,32 +8,25 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+> WARNING !!! Your bug report must contain the information requested below! (You can delete the comments if you wish)
+> ATTENTION !!! Votre rapport de bug doit contenir les informations demandez ci-dessous ! (Vous pouvez supprimer les commentaire si vous le souhaitez)
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### **Describe the bug / Description du bug**
+> A clear and concise description of what the bug is.
+> Une description claire et concise de ce qu'est le bug.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### **To Reproduce / Reproduire**
+Steps to reproduce the behavior / Étapes pour reproduire le comportement :
+> 1. Go to '...'
+> 2. Click on '....'
+> 3. Scroll down to '....'
+> 4. See error
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### **Screenshots** ***(optional)***
+> Add screenshots to help explain your problem.
+> Ajoutez des captures d'écran pour expliquer votre problème.
+> Ex: ![description](link of screenshots)
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+### **Additional context / Informations supplémentaire** ***(optional)***
+> Add any other context about the problem here.
+> Ajoutez tout autre informations concernant le problème ici.
