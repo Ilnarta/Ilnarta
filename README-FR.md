@@ -20,9 +20,14 @@ The mod is under development the wiki will be online soon with all the updates !
 **ATTENTION :** Le mod fonctionne avec geckolib3 ! ([Cliquez ici pour télécharger](https://www.curseforge.com/minecraft/mc-mods/geckolib/download/3601143))
 
 # Captures d'écran
+## Liste des items V0.13
 ![](https://ilnarta.github.io/assets/img/item%20(1).png)
 ![](https://ilnarta.github.io/assets/img/item%20(2).png)
 ![](https://ilnarta.github.io/assets/img/item%20(3).png)
+## Armure
 ![](https://ilnarta.github.io/assets/img/armor%20(1).png)
 ![](https://ilnarta.github.io/assets/img/armor%20(2).png)
 ![](https://ilnarta.github.io/assets/img/armor%20(3).png)
+## Liste des items V0.14b
+![](https://ilnarta.github.io/assets/img/New%20item%20(1).png)
+![](https://ilnarta.github.io/assets/img/New%20item%20(2).png)
