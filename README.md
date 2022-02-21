@@ -14,4 +14,5 @@ Ilnarta is a very complete mod to become!
 
 > For suggest an idea for this project, create an new discussion [here](https://github.com/Ilnarta/Ilnarta/discussions/new?category=ideas-suggestions).
 
-French Version -> [HERE](https://github.com/Ilnarta/Ilnarta/blob/main/README-FR.md)
+
+- [x] French Version -> [HERE](https://github.com/Ilnarta/Ilnarta/blob/main/README-FR.md)
