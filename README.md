@@ -15,4 +15,4 @@ Ilnarta is a very complete mod to become!
 > For suggest an idea for this project, create an new discussion [here](https://github.com/Ilnarta/Ilnarta/discussions/new?category=ideas-suggestions).
 
 
-[![French Version](https://img.shields.io/badge/French%20Version-🔗-9cf?labelColor=cornflowerblue&style=flat)](https://github.com/Ilnarta/Ilnarta/blob/main/README-FR.md)
+[![French Version](https://img.shields.io/badge/Version%20Française-🔗-9cf?labelColor=cornflowerblue&style=flat)](https://github.com/Ilnarta/Ilnarta/blob/main/README-FR.md)
