@@ -14,7 +14,7 @@ Ilnarta va devenir un mod très complet !
 > Pour suggérer une idée pour ce projet, créez une nouvelle discussion [ici](https://github.com/Ilnarta/Ilnarta/discussions/new?category=ideas-suggestions).
 
 # Informations
-The mod is under development the wiki will be online soon with all the updates !
+Le mod est en cours de développement ; le wiki sera bientôt en ligne avec toutes les mises à jour !
 
 # Exigence
 **ATTENTION :** Le mod fonctionne avec geckolib3 ! ([Cliquez ici pour télécharger](https://www.curseforge.com/minecraft/mc-mods/geckolib/download/3601143))
