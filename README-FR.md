@@ -12,3 +12,17 @@ Ilnarta va devenir un mod très complet !
 ## :bulb: Vous voulez suggérer une idée pour ce projet ?
 
 > Pour suggérer une idée pour ce projet, créez une nouvelle discussion [ici](https://github.com/Ilnarta/Ilnarta/discussions/new?category=ideas-suggestions).
+
+# Informations
+The mod is under development the wiki will be online soon with all the updates !
+
+# Exigence
+**ATTENTION :** Le mod fonctionne avec geckolib3 ! ([Cliquez ici pour télécharger](https://www.curseforge.com/minecraft/mc-mods/geckolib/download/3601143))
+
+# Captures d'écran
+![](https://ilnarta.github.io/assets/img/item%20(1).png)
+![](https://ilnarta.github.io/assets/img/item%20(2).png)
+![](https://ilnarta.github.io/assets/img/item%20(3).png)
+![](https://ilnarta.github.io/assets/img/armor%20(1).png)
+![](https://ilnarta.github.io/assets/img/armor%20(2).png)
+![](https://ilnarta.github.io/assets/img/armor%20(3).png)
