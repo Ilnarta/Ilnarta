@@ -8,8 +8,8 @@ assignees: ''
 
 ---
 
-> WARNING !!! Your bug report must contain the information requested below! (You can delete the comments if you wish)
-> ATTENTION !!! Votre rapport de bug doit contenir les informations demandez ci-dessous ! (Vous pouvez supprimer les commentaire si vous le souhaitez)
+> WARNING !!! Your bug report must contain the information requested below! You can delete the comments if you wish (which is after the ">"). To read the comments go to the "preview" tab.
+> ATTENTION !!! Votre rapport de bug doit contenir les informations demandez ci-dessous ! Vous pouvez supprimer les commentaire si vous le souhaitez (ce qui ce trouve après les ">"). Pour lire les commentaires allez dans l'onglet "preview".
 
 ### **Describe the bug / Description du bug**
 > A clear and concise description of what the bug is.
