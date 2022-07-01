@@ -17,7 +17,7 @@ Ilnarta va devenir un mod très complet !
 Le mod est en cours de développement ; le wiki sera bientôt en ligne avec toutes les mises à jour !
 
 # Exigence
-**ATTENTION :** Le mod fonctionne avec geckolib3 ! ([Cliquez ici pour télécharger](https://www.curseforge.com/minecraft/mc-mods/geckolib/download/3601143))
+**ATTENTION :** Le mod fonctionne avec geckolib3 ! ([Cliquez ici pour télécharger](https://www.curseforge.com/minecraft/mc-mods/geckolib/files))
 
 # Captures d'écran
 ## Liste des items V0.13
