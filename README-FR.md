@@ -1,7 +1,7 @@
 # Ilnarta Mod Minecraft
 Ilnarta va devenir un mod très complet !
 
-[![Image Button Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE&style=for-the-badge&up_color=blue&up_message=ONLINE&url=https%3A%2F%2Filnarta.github.io&logo=FirefoxBrowser&logoColor=blue)](https://ilnarta.github.io/fr/index.html)    [![Image Button Download Mod](https://img.shields.io/badge/Forge-TELECHARGER-orange?style=for-the-badge&logo=CurseForge&logoColor=orange)](https://www.curseforge.com/minecraft/mc-mods/ilnarta)
+[![Image Button Website](https://img.shields.io/website?down_color=red&down_message=HORS%20LIGNE&style=for-the-badge&up_color=blue&up_message=EN%20LIGNE&url=https%3A%2F%2Filnarta.github.io&logo=FirefoxBrowser&logoColor=blue)](https://ilnarta.github.io/fr/index.html)    [![Image Button Download Mod](https://img.shields.io/badge/Forge-TELECHARGER-orange?style=for-the-badge&logo=CurseForge&logoColor=orange)](https://www.curseforge.com/minecraft/mc-mods/ilnarta)
 
 [![Last Version](https://img.shields.io/badge/Derniére%20version-V%200.14.32-blue)](https://www.curseforge.com/minecraft/mc-mods/ilnarta/files/3857641) [![Stable Version](https://img.shields.io/badge/Version%20stable-V%200.14.32-green)](https://www.curseforge.com/minecraft/mc-mods/ilnarta/files/3857641) ![Minecraft Version](https://img.shields.io/badge/Version%20Minecraft-1.17.1%20/%201.18.2-important)
 
